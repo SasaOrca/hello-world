@@ -1,5 +1,5 @@
 # Welcome to GitHub Pages
-My name is **Sasa** I am from *Montenegro*, about the country from which i came you can look [here](https://en.wikipedia.org/wiki/Montenegro) more.
+My name is **Sasa** I am from *Montenegro*.[Here](https://en.wikipedia.org/wiki/Montenegro) you can get more information about my country.
 
 You can use the [editor on GitHub](https://github.com/SasaOrca/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
